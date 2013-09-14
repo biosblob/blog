@@ -1,4 +1,4 @@
 blog
 ====
 
-The code for the design of my blog, hosted on benders.me.
+The code for my blog, which was originally hosted on benders.me and powered by Kirby.
